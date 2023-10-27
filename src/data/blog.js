@@ -1,3 +1,4 @@
+
 import logo from "../assets/logo";
 
 const blogData = {
@@ -28,4 +29,6 @@ const blogData = {
   ],
 };
 
-export default blogData;
+
+
+export default blogData ; 
